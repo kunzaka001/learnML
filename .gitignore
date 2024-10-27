@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 
-# Conde env
+# Ignore Conda env
 env/
