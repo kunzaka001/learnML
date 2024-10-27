@@ -1,2 +1,6 @@
+# Exported env to use across platform too
+conda env export --no-builds > environment.yml
+
+
 # Create the environment from the environment.yml file:
 conda env create -f environment.yml
